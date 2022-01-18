@@ -1,0 +1,84 @@
+
+h1{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+   text-shadow: black 0.1em 0.1em 0.2em
+
+
+}
+.mensagem{
+    background:#98FB98	;
+    color:#2E8B57;
+    border: #98FB98;
+    border-radius: 5px;
+    font-size: 20px;
+    
+    
+}
+.fundo {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("fundo.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-size: cover;
+
+}
+
+table, th, td, tr {
+    background-color: White;
+    color: #000000;
+
+}
+a{
+    color: black;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.centro{
+    height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
+#site{
+
+    width:1000px;
+    height:relative;
+    margin-top:0;
+    margin-left:auto;
+    margin-bottom:0;
+    margin-right:auto;
+    background-color:#fff;
+}
+
+#btn-consulta{
+    left: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+
+
+}
+
+.group { 
+    border: 1px solid green;
+    margin: 1px;
+    border-radius: 3px;
+}
+
+.direito { 
+    text-align: right;
+}

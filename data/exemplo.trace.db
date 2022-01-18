@@ -1,0 +1,17 @@
+2021-12-03 23:36:36 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM PESSOA
+
+DELET *[*]FROM PESSOA"; SQL statement:
+select * from PESSOA
+
+delet *from PESSOA [42000-200]
+2021-12-03 23:36:55 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM PESSOA
+
+DELETE *[*]FROM PESSOA"; SQL statement:
+select * from PESSOA
+
+delete *from PESSOA [42000-200]
+2021-12-03 23:37:28 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DATA_NASCIMENTO[*]"; expected "DELETE, DROP, DECLARE, DEALLOCATE"; SQL statement:
+DATA_NASCIMENTO [42001-200]

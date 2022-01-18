@@ -1,0 +1,115 @@
+
+.header {
+    position: relative;
+    width: relative;
+    height: 200px;
+    background-color: #000;
+    color: #fff;
+    align-content: center;
+
+}
+.container img{
+
+    border-radius:200px;
+    border-style: solid;
+    border-color: #343433;
+    border-bottom-width: 10px;
+    border-top-width: 10px;
+    border-right-width:10px;
+    border-left-width: 10px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 30%;
+    right: 42%;
+    top: 50%;
+
+}
+#site{
+
+    width:relative;
+    height:relative;
+    margin-top:0;
+    margin-left:auto;
+    margin-bottom:0;
+    margin-right:auto;
+    background-color:#fff;
+}
+#conteudo{
+    position: relative;
+    width: 700px;  
+    height: relative;
+    background-color:#000;
+    border-radius: 50px;
+    margin: 100px  200px; 
+    margin-left:auto;
+    margin-bottom:0;
+    margin-right:auto;
+    font-size: 15px; 
+    font-family: Calibri; 
+    color:White; 
+    
+    
+    
+}
+
+#conteudo-table{
+    position: relative;
+    width: 500px;  
+    height: relative;
+    background-color:#000;
+    border-radius: 50px; 
+    margin-left:auto;
+    margin-right:auto;
+
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: Calibri; 
+    color:White; 
+
+}
+h2 { 
+    position: relative;
+    font-size: 35px; 
+    font-family: Calibri; 
+    color:White; 
+    text-align: center; 
+
+}
+h3 { 
+    position: relative;
+    font-size: 20px; 
+    font-family: Calibri; 
+    color:White; 
+
+
+}
+
+
+
+
+
+
+table {
+
+    position: relative;
+    background-color: #000;
+    color: #fff;
+    border-radius: 50px;
+    width: 500px;  
+    font-family: Calibri; 
+   
+
+}
+
+
+
+a{
+    position: relative;
+    font-size: 20px; 
+    font-family: Calibri; 
+    color:White; 
+}
+
