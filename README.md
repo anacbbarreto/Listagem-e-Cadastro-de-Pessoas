@@ -2,7 +2,7 @@
 
 
 
-Projeto do curso de analise e desenvolvilemto de sistemas: listagem e cadastro de pessoas usando as tecnologias Spring MVC, Thymeleaf, H2 e Bean Validation.
+Projeto do curso de análise e desenvolvimento  de sistemas: listagem e cadastro de pessoas usando as tecnologias Spring MVC, Thymeleaf, H2 e Bean Validation.
 
 
 
